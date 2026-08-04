@@ -7,6 +7,7 @@ This repository contains the certificates I have earned while learning and impro
 - 🤖 AI Fundamentals
 - 🤖 Agents and Workflow
 - 🤖 Applied AI Foundations
+- 🤖 What is Generative AI
 - ☁️ Foundations of Prompt Engineering (AWS)
 - 🐍 Python
 
