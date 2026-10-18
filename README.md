@@ -1,23 +1,17 @@
-# 📜 Certificates
+# Certifications
 
-This repository contains the certificates I have earned while learning and improving my technical skills.
+This repository serves as a collection of certificates earned through courses, training, and independent learning.
 
-## Certificates
+The certificates reflect ongoing learning across programming, artificial intelligence, and related technology topics. Individual certificates are maintained in this repository as records of completed learning.
 
-- 🤖 AI Fundamentals
-- 🤖 Agents and Workflow
-- 🤖 Applied AI Foundations
-- 🤖 What is Generative AI
-- ☁️ Foundations of Prompt Engineering (AWS)
-- 🐍 Python
+## Areas of Learning
+- Programming and software development
+- Artificial intelligence and generative AI
+- Prompt engineering and AI workflows
+- Technical foundations and continuous learning
 
-More certificates will be added as I continue my learning journey.
-
----
-
-## 👨‍💻 Author
-
+## Profile
 **Sai Subhash Kolanu**
 
 - GitHub: https://github.com/Subhashkolanu
-- LinkedIn: https://www.linkedin.com/in/sai-subhash-kolanu-358ba0376
+- LinkedIn: https://www.linkedin.com/in/sai-subhash-kolanu-358ba0376/
